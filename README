@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=114
+
+"Emulates" a multifield prompt dialog in console mode!
+Ideal tool for speeding up your typing. Good for constructs, which contains constant text with a few small variable texts.
+See the examples in the script!
+WARNING: Don't use with a beta version! It will crash vim. (due to a bug in vim)
